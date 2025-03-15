@@ -32,10 +32,9 @@ elif page == "طلب الخدمات":
 
 elif page == "اتصل بنا":
     st.title("اتصل بنا")
-    if st.button("💬 تواصل عبر واتساب"): 
+    if st.button("💬 whatsapp"): 
         open_whatsapp("201553012416")
-    if st.button("📧 أرسل بريدًا إلكترونيًا"): 
+    if st.button("📧 gmail"): 
         open_email("alordashour@gmail.com")
-    if st.button("📘 زيارة صفحتنا على فيسبوك"): 
+    if st.button("open our facebook"): 
         open_facebook("abdallah13a")
-بوك](https://www.facebook.com/{facebook_username})")
